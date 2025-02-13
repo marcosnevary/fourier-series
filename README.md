@@ -31,7 +31,7 @@ Olá! Neste repositório você encontrará um script em Python para aproximar fu
        ```
        f = sp.Piecewise((-1, (x > -sp.pi) & (x < 0)), (1, (x > 0) & (x < sp.pi)))
        ```
-    - Para mains informações, visite a [documentação do SymPy](https://docs.sympy.org/latest/index.html)
+    - Para mains informações, visite a [documentação do SymPy](https://docs.sympy.org/latest/index.html).
 3. Altere a variável `n` para o número de termos que a soma terá.
 4. Execute o script.
    ```
