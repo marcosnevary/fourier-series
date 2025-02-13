@@ -1,6 +1,6 @@
 # ➕ Aproximação de Funções com Séries de Fourier
 
-Olá! Neste repositório você encontrará um script em Python para aproximar funções utilizando séries de Fourier. O objetivo é visualizar de gráfica como a aproximação é realizada conforme o número de termos da soma aumenta.
+Olá! Neste repositório você encontrará um script em Python para aproximar funções utilizando séries de Fourier. O objetivo é visualizar graficamente como a aproximação melhora à medida que o número de termos na soma aumenta.
 
 ## 🔹 Requisitos
 - Python 3.x.
@@ -31,6 +31,7 @@ Olá! Neste repositório você encontrará um script em Python para aproximar fu
        ```
        f = sp.Piecewise((-1, (x > -sp.pi) & (x < 0)), (1, (x > 0) & (x < sp.pi)))
        ```
+    - Para mains informações, visite a [documentação do SymPy](https://docs.sympy.org/latest/index.html)
 3. Altere a variável `n` para o número de termos que a soma terá.
 4. Execute o script.
    ```
