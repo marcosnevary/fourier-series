@@ -1,12 +1,12 @@
-# ➕ Aproximação de Funções Periódicas com Séries de Fourier
+# ➕ Aproximação de Funções com Séries de Fourier
 
 Olá! Neste repositório você encontrará um script em Python para aproximar funções periódicas utilizando séries de Fourier. O objetivo é visualizar de gráfica como a aproximação é realizada conforme o número de termos da soma aumenta.
 
-## Requisitos
+## 🔹 Requisitos
 - Python 3.x.
 -  Dependências listadas no arquivo `requirements.txt`.
 
-## Instalação
+## 🔹 Instalação
 1. Clone este repositório.
     ```
     git clone https://github.com/marcosnevary/fourier-series.git
@@ -16,7 +16,7 @@ Olá! Neste repositório você encontrará um script em Python para aproximar fu
     ```
     pip install -r requirements.txt
     ```
-## Funcionamento
+## 🔹 Funcionamento
 1. Altere a variável `f` para a função que será aproximada.
    - Caso a função seja continua, defina diretamente.
      - Exemplo:
