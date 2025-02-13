@@ -1,6 +1,6 @@
 # ➕ Aproximação de Funções com Séries de Fourier
 
-Olá! Neste repositório você encontrará um script em Python para aproximar funções periódicas utilizando séries de Fourier. O objetivo é visualizar de gráfica como a aproximação é realizada conforme o número de termos da soma aumenta.
+Olá! Neste repositório você encontrará um script em Python para aproximar funções utilizando séries de Fourier. O objetivo é visualizar de gráfica como a aproximação é realizada conforme o número de termos da soma aumenta.
 
 ## 🔹 Requisitos
 - Python 3.x.
